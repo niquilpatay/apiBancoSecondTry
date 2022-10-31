@@ -1,0 +1,5 @@
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\DataAPI2\obj\Debug\net6.0\DataAPI2.csproj.AssemblyReference.cache
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\DataAPI2\obj\Debug\net6.0\DataAPI2.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\DataAPI2\obj\Debug\net6.0\DataAPI2.AssemblyInfoInputs.cache
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\DataAPI2\obj\Debug\net6.0\DataAPI2.AssemblyInfo.cs
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\DataAPI2\obj\Debug\net6.0\DataAPI2.csproj.CoreCompileInputs.cache

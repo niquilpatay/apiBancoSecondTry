@@ -1,0 +1,6 @@
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\ApiBancoSecondTry\obj\Debug\net6.0\ApiBancoSecondTry.csproj.AssemblyReference.cache
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\ApiBancoSecondTry\obj\Debug\net6.0\ApiBancoSecondTry.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\ApiBancoSecondTry\obj\Debug\net6.0\ApiBancoSecondTry.AssemblyInfoInputs.cache
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\ApiBancoSecondTry\obj\Debug\net6.0\ApiBancoSecondTry.AssemblyInfo.cs
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\ApiBancoSecondTry\obj\Debug\net6.0\ApiBancoSecondTry.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\PROGRAMACIÓN\APIS PROGRAMACION 2\ApiBancoSecondTry\obj\Debug\net6.0\ApiBancoSecondTry.MvcApplicationPartsAssemblyInfo.cache
